@@ -1,6 +1,6 @@
 ## Olá! Sou Mayara Lopes
 
-- 🔭 Hoje trabalho no projeto EDUTECH - Pr
+- 🔭 Hoje trabalho com projeto EDUTECH - Pr
 - 🌱 Estudante e professora de Python /Java
 - 😄 Pronouns: Ela/dela
 
