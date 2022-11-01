@@ -1,8 +1,9 @@
 ## Olá! Sou Mayara Lopes
 
 - 🔭 Hoje trabalho com projeto EDUTECH - Pr
-- 🌱 Estudante e professora de Python /Java
-- 😄 Pronouns: Ela/dela
+- 🔭 Estudante e professora de Python /JavaScript / CSS/ HTML
+- 🔭Quality Assurance (QA)
+-  🔭  Pronouns: Ela/dela
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
